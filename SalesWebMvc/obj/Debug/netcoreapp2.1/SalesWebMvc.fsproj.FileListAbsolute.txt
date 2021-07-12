@@ -1,0 +1,14 @@
+D:\ProjetosCSharp\ws-vs2019\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\ProjetosCSharp\ws-vs2019\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\appsettings.json
+D:\ProjetosCSharp\ws-vs2019\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\ProjetosCSharp\ws-vs2019\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.deps.json
+D:\ProjetosCSharp\ws-vs2019\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.runtimeconfig.json
+D:\ProjetosCSharp\ws-vs2019\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.runtimeconfig.dev.json
+D:\ProjetosCSharp\ws-vs2019\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.dll
+D:\ProjetosCSharp\ws-vs2019\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.pdb
+D:\ProjetosCSharp\ws-vs2019\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.fsproj.AssemblyReference.cache
+D:\ProjetosCSharp\ws-vs2019\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.AssemblyInfoInputs.cache
+D:\ProjetosCSharp\ws-vs2019\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.AssemblyInfo.fs
+D:\ProjetosCSharp\ws-vs2019\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.dll
+D:\ProjetosCSharp\ws-vs2019\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.pdb
+D:\ProjetosCSharp\ws-vs2019\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.genruntimeconfig.cache
